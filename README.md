@@ -1,0 +1,6 @@
+![jewellery-1](https://github.com/user-attachments/assets/ef472d3a-e8d4-4fb4-951c-853f07a46457)
+![jewellery-2](https://github.com/user-attachments/assets/9c99c02e-c8de-4ec0-96e2-d15cf79fcd0d)
+![jewellery-3](https://github.com/user-attachments/assets/b8c90a5a-9e2c-4788-8f5c-5a3b78ab1537)
+![jewellery-4](https://github.com/user-attachments/assets/f22ebca9-cd4e-474a-814a-1016394316a6)
+![jewellery-5](https://github.com/user-attachments/assets/211df7d3-f675-4d7b-85db-d2b1961c8916)
+![jewellery-6](https://github.com/user-attachments/assets/4c7a0431-6d41-4cf1-87c8-b5cecc83ccdb)
