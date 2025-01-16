@@ -1,0 +1,342 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.navi{
+    z-index: 1;
+}
+
+.navbar .icon img{
+    margin-left: 220px;
+    margin-top: 10px;
+    /* color: rgb(42, 249, 249); */
+}
+
+.navbar{
+    padding: 50px;
+}
+.collapse{
+    margin-left: 700px;
+   
+}
+.collapse ul li{
+    margin: 10px;
+}
+.carousel{
+    /* z-index: -1; */
+    margin-top: -90px;
+    /* z-index: -1; */
+}
+.part_one{
+    height: 100px;
+}
+.carousel{
+    /* height: 100px; */
+}
+.carousel-item img{
+    height: 500px;
+}
+.carousel-caption .hp{
+    margin-bottom: 110px;
+    margin-right: 500px;
+   color: rgb(125, 147, 147);
+   text-align: left;
+}
+
+
+.carousel-caption .hp h1{
+    font-size: 75px;
+    color: black;
+}
+.carousel-caption .hp span{
+    color: black;
+}
+.carousel-caption .hp p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.carousel-caption .hp .button{
+    margin-top: 10px;
+    border-radius: 20px;
+    height: 29px;
+    width: 110px;
+    background-color: aliceblue;
+}
+
+
+.carousel-inner .imge img{
+    margin-top: -500px;
+    margin-left: 920px;
+    height: 350px;
+}
+
+.bestjewellery{
+    margin-top: 500px;
+    /* display: flex; */
+    color: black;
+}
+.bestjewellery h2{
+    /* justify-content: center; */
+    /* align-items: center; */
+    text-align: center;
+    color: rgb(13, 12, 11);
+
+}
+.bestjewellery p{
+    justify-content: center;
+    text-align: center;
+    color: rgb(50, 54, 54);
+    align-items: center;
+} 
+
+/* main-and-main-part start */
+
+/* main- part one start */
+
+.main-part-1{
+    display: flex;
+}
+.main-part-1 .para{
+    color: rgb(121, 132, 132);
+    margin-top: 150px;
+    margin-left: 290px;
+}
+
+.main-part-1 .img {
+    margin-left: -780px;
+}
+
+.main-part-1 .img .beimg{
+    margin-top: -1990px;
+    margin-left: 780px;
+    border: 25px solid rgb(191, 157, 93);
+    border-radius: 230px;
+}
+
+/* main- part one End */
+
+/* main-second-2 start */
+
+.main-second-2{
+    display: flex;
+    margin-top: -630px;
+}
+.main-second-2 .img-2 .beimg-2{
+    margin-top: -1950px;
+    margin-left: 100px;
+    border: 25px solid rgb(191, 157, 93);
+    border-radius: 230px;
+}
+.main-second-2 .img-2{
+    margin-left: 80px;
+} 
+
+.main-second-2 .para-2{
+    color: rgb(121, 132, 132);
+    margin-left: -690px;
+    margin-top: 250px;
+}
+
+/* main-second-2 End */
+
+
+/* main-second-3 start */
+
+.main-part-3{
+    display: flex;
+    margin-top: -630px;
+}
+.main-part-3 .para-3{
+    color: rgb(121, 132, 132);
+    margin-top: 210px;
+    margin-left: 150px;
+}
+
+.main-part-3 .img-3 {
+    margin-left: -690px;
+}
+
+.main-part-3 .img-3 .beimg{
+    margin-top: 130px;
+    margin-left: 720px;
+    border: 25px solid rgb(191, 157, 93);
+    border-radius: 230px;
+}
+
+
+
+/* main-second-3 End */
+
+
+/* main-and-main-part End */
+
+
+/* form-img part start */
+.Reqestacallback{
+    margin-top: 90px;
+}
+
+.Reqestacallback h2{
+    text-align: center;
+    color: rgb(13, 12, 11);
+}
+.Reqestacallback p{
+    justify-content: center;
+    text-align: center;
+    color: rgb(50, 54, 54);
+    align-items: center;
+}
+
+
+.form-img{
+    display: flex;
+    /* border: 2px solid black; */
+}
+.form-img form{
+    margin-top: 50px;
+    margin-left: 360px;
+    border-radius: 10px;
+    border: 4px solid orange;
+    height: 290px;
+
+    padding: 10px;
+}
+.form-img form input{
+    width: 300px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.form-img-part img{
+    margin-top: 40px;
+    margin-left: 90px;
+    height: 300px;
+}
+.form-img form button{
+    border-radius: 30px;
+    margin-left: 65px;
+    background-color: black;
+    color: aliceblue;
+    width: 80px;
+} 
+
+
+/* form-img part end */
+
+/* our-clien-parrt-start */
+.our-client{
+    margin-top: 60px;
+}
+
+.our-client .our-client-parent{
+    display: flex;
+}
+.our-client .our-client-para {
+
+    color: rgb(0, 0, 0);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.our-client-parent {
+    margin-top: 50px;
+}
+
+.o-client{
+    margin-left: 190px;
+    justify-content: center;
+    align-items: center;
+    /* text-align: center; */
+}
+
+.o-client .our-client-para-1 {
+    background-color: rgb(0, 0, 0);
+    margin-top: 70px;
+    width: 850px;
+    height: 150px;
+    margin-left: 0px;
+
+}
+.o-client .our-client-para-1 h4,p{
+    margin-top: 10px;
+    color: rgb(150, 157, 157);
+}
+
+/* .our-client-parent .moo{
+    margin-left: -10px;
+} */
+.our-client-parent .mm{ 
+    height: 30px;
+    margin-top: 120px;
+    margin-left: -10px;
+}
+
+/* our-clien-parrt-end */
+
+
+
+/* last-part start */
+
+.last-part{
+    display: flex;
+    margin-top: 50px;
+    height: 250px;
+    width: 1400px;
+    margin-left: 72px;
+    background-color: rgb(204, 169, 86);
+}
+.last-part-1{
+   margin-left: 360px;
+   margin-top: 100px;
+   /* color: aliceblue; */
+
+}
+.last-part-1 h4{
+    color: aliceblue;
+
+}
+.last-part-1 p{
+    color: rgb(0, 0, 0);
+
+}
+.last-part-2{
+   margin-left: 200px;
+   margin-top: 100px;
+   /* color: azure; */
+}
+.last-part-2 h2{
+    color: aliceblue;
+ }
+
+/* last-part end */
+
+.last{
+    height: 50px;
+    background-color: rgb(219, 203, 114);
+    margin-left: 72px;
+    width: 1400px;
+}
+.last h5{
+   color: rgb(47, 40, 40);
+    text-align: center;
+}
+
+.main-and-main-part button{
+    height: 35px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+    width: 100px;
+    margin-left: 500px;
+}
+.main-and-main-part .aaa {
+    margin-left: 400px;
+    margin-top: 10px;
+}
+.main-and-main-part .bbb{
+    margin-left: 550px;
+    margin-top: 10px;
+}
+
+/* text-contect */
